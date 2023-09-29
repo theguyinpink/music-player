@@ -248,8 +248,8 @@ h3{
 
     }
     .container {
-        width: 60%; /* Réduisez la largeur du conteneur pour s'adapter aux écrans plus petits */
-        margin: 50px auto; /* Centrez le conteneur horizontalement */
+        width: 80%; /* Réduisez la largeur du conteneur pour s'adapter aux écrans plus petits */
+        margin: 20px auto; /* Centrez le conteneur horizontalement */
     }
 
     .player-img {
