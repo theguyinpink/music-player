@@ -247,48 +247,4 @@ h3{
     
 
     }
-    .container {
-        width: 80%; /* Réduisez la largeur du conteneur pour s'adapter aux écrans plus petits */
-        margin: 20px auto; /* Centrez le conteneur horizontalement */
-    }
-
-    .player-img {
-        width: 100%; /* Ajustez la largeur de l'image du lecteur */
-        top: 0;
-        left: 0;
-    }
-
-    h2, h3 {
-        font-size: 20px; /* Réduisez la taille de la police pour les titres */
-    }
-
-    .player-progress {
-        margin: 20px 10px; /* Ajustez les marges pour un espacement approprié */
-    }
-
-    .player-controls {
-        width: 50%; /* Ajustez la largeur des contrôles pour s'adapter à l'écran */
-        text-align: center; /* Centrez les contrôles */
-        left: 0;
-    }
-
-    #queue-btn {
-        font-size: 8px; /* Réduisez la taille de l'icône de la file d'attente */
-    }
-
-    /* Ajustez les styles pour la barre de recherche et les résultats de recherche */
-    .search-container {
-        left: 5%; /* Ajustez la position */
-        border-radius: 10px;
-    }
-
-    #search-results {
-        left: 5%; /* Ajustez la position */
-        width: 90%; /* Réduisez la largeur */
-    }
-
-
-
-
-
-
+    
