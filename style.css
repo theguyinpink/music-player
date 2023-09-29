@@ -267,13 +267,13 @@ h3{
     }
 
     .player-controls {
-        width: 100%; /* Ajustez la largeur des contrôles pour s'adapter à l'écran */
+        width: 50%; /* Ajustez la largeur des contrôles pour s'adapter à l'écran */
         text-align: center; /* Centrez les contrôles */
         left: 0;
     }
 
     #queue-btn {
-        font-size: 24px; /* Réduisez la taille de l'icône de la file d'attente */
+        font-size: 8px; /* Réduisez la taille de l'icône de la file d'attente */
     }
 
     /* Ajustez les styles pour la barre de recherche et les résultats de recherche */
